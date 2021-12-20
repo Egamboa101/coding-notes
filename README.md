@@ -19,6 +19,7 @@
 2. Open the command terminal in vs code ctrl + `
 3. In the terminal type the following commands:
    - `git status` - Checks what files have changed in the editing stage
+   - `git add .` - Adds all files from the editing stage to the staging area
    - `git commit -m "Summary of changes here"` - Officially track the changes I have made
    - Optional: `git status` - Check that files were tracked
-   - `gut push origin main` - Pushed the tracked changes up to GitHub
+   - `git push origin main` - Pushed the tracked changes up to GitHub
