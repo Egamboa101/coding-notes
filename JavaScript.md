@@ -1,0 +1,26 @@
+# Data Types
+
+- String "String"
+- Number 3423423
+- Array [123, text, ]
+- Boolean (True/False)
+- Object {
+  name: "Marcus",
+  age: 27,
+  spouse: {  
+   }
+  }
+
+If I want to see if something is working then use console.log() to test and see the results of the code.
+
+Variable names can't start with a number or have spaces in them.
+
+# Declare Data Types
+
+- let name = "Marcus";
+  let keyword means you can change the data
+  or
+- const age = 27;
+  const keyword means you can't change the data
+
+Old way to declare used var, which is equivalent to "let" essentially.
