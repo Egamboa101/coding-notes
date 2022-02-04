@@ -1,6 +1,6 @@
 # Data Types
 
-- String "String"
+- String "String" // Can use backticks ```, double quotations `"`, or single quotations `'` interchangebly
 - Number 3423423
 - Array [123, text, ]
 - Boolean (True/False)
@@ -24,3 +24,9 @@ Variable names can't start with a number or have spaces in them.
   const keyword means you can't change the data
 
 Old way to declare used var, which is equivalent to "let" essentially.
+
+# Arithmetic Operators
+
+[Easy cheatsheet](https://www.w3schools.com/js/js_operators.asp)
+
+- 
