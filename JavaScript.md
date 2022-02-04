@@ -1,6 +1,6 @@
 # Data Types
 
-- String "String" // Can use backticks ```, double quotations `"`, or single quotations `'` interchangebly
+- String "String" // Can use backticks `\``, double quotations `"`, or single quotations `'` interchangebly
 - Number 3423423
 - Array [123, text, ]
 - Boolean (True/False)
