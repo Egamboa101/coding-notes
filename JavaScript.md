@@ -29,4 +29,24 @@ Old way to declare used var, which is equivalent to "let" essentially.
 
 [Easy cheatsheet](https://www.w3schools.com/js/js_operators.asp)
 
-- 
+# Functions
+
+To define but not invoke:
+
+function functionName(){
+//...insert function steps
+}
+
+New ES6 syntax
+
+//when there's a parameter in the parenthesis you're telling the function to do something with that. When defining the function you generally don't list a defined variable in the parenthesis.
+const functionName = (x) => {
+
+}
+
+
+To invoke 
+functionName(insert variable)
+
+
+If you want your function to give you something back you use the return statement.
